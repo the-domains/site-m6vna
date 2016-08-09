@@ -1,0 +1,14 @@
+layout_spectrum: 0.8119862901512533
+typography_spectrum: 0.10726640676148236
+color:
+  brandStrength: 0.013529665302485228
+  lightness: 0.7822684915736318
+  saturation: 0.09886412601917982
+  rhythmicContrast: 0.6915726466104388
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: Site
